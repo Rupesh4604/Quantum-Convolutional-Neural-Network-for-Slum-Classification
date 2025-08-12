@@ -1,0 +1,2 @@
+install Ubuntu22.04.5 LTS or create a conda env with python3.10.12
+pip install tensorflow==2.15.0 tensorflow-quantum==0.7.3
